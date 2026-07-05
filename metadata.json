@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Reversa de Trailers",
+  "description": "Una aplicación interactiva y educativa diseñada para comprender, practicar y dominar los movimientos de reversa en unidades articuladas (tráileres), incluyendo el principio del contravolante y prevención del efecto tijera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
