@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React from 'react';
+// Using the new JSX transform; explicit React import removed to avoid module resolution errors
 import { ShieldCheck, ShieldAlert, TrendingUp, AlertTriangle, HelpCircle, Award, BarChart3, RotateCcw, Compass, BookOpen } from 'lucide-react';
 import { UserSession, SpatialComprehensionReport } from '../types';
 
